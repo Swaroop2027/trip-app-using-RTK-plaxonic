@@ -1,0 +1,296 @@
+{
+  "flights": [
+    {
+      "id": "1",
+      "source": "Delhi",
+      "destination": "Mumbai",
+      "fare": 2000,
+      "date": "10/03/2024",
+      "duration": "2hr 15min",
+      "time_period": "Morning",
+      "time": "08:00 - 10:15",
+      "stop": "Nonstop",
+      "airline": "Air India",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=18&quot"
+    },
+    {
+      "id": "2",
+      "source": "Delhi",
+      "destination": "Kolkata",
+      "fare": 2500,
+      "date": "14/03/2024",
+      "duration": "2hr 30min",
+      "time_period": "Morning",
+      "time": "09:30 - 12:00",
+      "stop": "Nonstop",
+      "airline": "Air India Express",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=18&quot"
+    },
+    {
+      "id": "3",
+      "source": "Mumbai",
+      "destination": "Bangalore",
+      "fare": 1700,
+      "date": "08/03/2024",
+      "duration": "1hr 45min",
+      "time_period": "Evening",
+      "time": "18:00 - 19:45",
+      "stop": "Nonstop",
+      "airline": "Air India",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=18&quot"
+    },
+    {
+      "id": "4",
+      "source": "Kolkata",
+      "destination": "Mumbai",
+      "fare": 2800,
+      "date": "20/03/2024",
+      "duration": "2hr 45min",
+      "time_period": "Evening",
+      "time": "17:00 - 19:45",
+      "stop": "Connecting",
+      "airline": "IndiGo",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/6E.png?v=18&quot"
+    },
+    {
+      "id": "5",
+      "source": "Hyderabad",
+      "destination": "Mumbai",
+      "fare": 1500,
+      "date": "15/03/2024",
+      "duration": "1hr 50min",
+      "time_period": "Afternoon",
+      "time": "14:00 - 15:50",
+      "stop": "Nonstop",
+      "airline": "SpiceJet",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=18&quot"
+    },
+    {
+      "id": "6",
+      "source": "Delhi",
+      "destination": "Hyderabad",
+      "fare": 3000,
+      "date": "25/03/2024",
+      "duration": "3hr 10min",
+      "time_period": "Evening",
+      "time": "18:00 - 21:10",
+      "stop": "Connecting",
+      "airline": "IndiGo",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/6E.png?v=18&quot"
+    },
+    {
+      "id": "7",
+      "source": "Hyderabad",
+      "destination": "Delhi",
+      "fare": 3500,
+      "date": "29/03/2024",
+      "duration": "3hr 15min",
+      "time_period": "Morning",
+      "time": "11:00 - 14:15",
+      "stop": "Connecting",
+      "airline": "Akasa Air",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/QP.png?v=18&quot"
+    },
+    {
+      "id": "8",
+      "source": "Bangalore",
+      "destination": "Hyderabad",
+      "fare": 2000,
+      "date": "04/04/2024",
+      "duration": "1hr 15min",
+      "time_period": "Afternoon",
+      "time": "13:20 - 14:35",
+      "stop": "Nonstop",
+      "airline": "Air India Express",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/I5.png?v=18&quot"
+    },
+    {
+      "id": "9",
+      "source": "Delhi",
+      "destination": "Chennai",
+      "fare": 5000,
+      "date": "10/04/2024",
+      "duration": "3hr 30min",
+      "time_period": "Afternoon",
+      "time": "13:45 - 17:15",
+      "stop": "Connecting",
+      "airline": "Air India",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=18&quot"
+    },
+    {
+      "id": "10",
+      "source": "Chennai",
+      "destination": "Hyderabad",
+      "fare": 2800,
+      "date": "03/04/2024",
+      "duration": "2hr 15min",
+      "time_period": "Evening",
+      "time": "19:45 - 22:00",
+      "stop": "Nonstop",
+      "airline": "IndiGo",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/6E.png?v=18&quot"
+    },
+    {
+      "id": "11",
+      "source": "Kolkata",
+      "destination": "Delhi",
+      "fare": 3300,
+      "date": "08/04/2024",
+      "duration": "2hr 45min",
+      "time_period": "Evening",
+      "time": "20:30 - 23:15",
+      "stop": "Connecting",
+      "airline": "Air India",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/AI.png?v=18&quot"
+    },
+    {
+      "id": "12",
+      "source": "Delhi",
+      "destination": "Jaipur",
+      "fare": 2500,
+      "date": "22/03/2024",
+      "duration": "2hr 00min",
+      "time_period": "Afternoon",
+      "time": "12:15 - 14:15",
+      "stop": "Nonstop",
+      "airline": "SpiceJet",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=18&quot"
+    },
+    {
+      "id": "13",
+      "source": "Jaipur",
+      "destination": "Hyderabad",
+      "fare": 4000,
+      "date": "09/04/2024",
+      "duration": "2hr 50min",
+      "time_period": "Morning",
+      "time": "10:00 - 12:50",
+      "stop": "Connecting",
+      "airline": "IndiGo",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/6E.png?v=18&quot"
+    },
+    {
+      "id": "14",
+      "source": "Mumbai",
+      "destination": "Hyderabad",
+      "fare": 5000,
+      "date": "12/04/2024",
+      "duration": "2hr 30min",
+      "time_period": "Afternoon",
+      "time": "13:15 - 15:45",
+      "stop": "Nonstop",
+      "airline": "Akasa Air",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/QP.png?v=18&quot"
+    },
+    {
+      "id": "15",
+      "source": "Kolkata",
+      "destination": "Hyderabad",
+      "fare": 3000,
+      "date": "15/04/2024",
+      "duration": "3hr 05min",
+      "time_period": "Evening",
+      "time": "19:55 - 23:00",
+      "stop": "Connecting",
+      "airline": "SpiceJet",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=18&quot"
+    },
+    {
+      "id": "16",
+      "source": "Jaipur",
+      "destination": "Bangalore",
+      "fare": 4400,
+      "date": "06/04/2024",
+      "duration": "2hr 35min",
+      "time_period": "Morning",
+      "time": "06:30 - 09:05",
+      "stop": "Nonstop",
+      "airline": "IndiGo",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/6E.png?v=18&quot"
+    },
+    {
+      "id": "17",
+      "source": "Chennai",
+      "destination": "Kolkata",
+      "fare": 3900,
+      "date": "13/04/2024",
+      "duration": "2hr 40min",
+      "time_period": "Afternoon",
+      "time": "14:00 - 16:40",
+      "stop": "Nonstop",
+      "airline": "SpiceJet",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/SG.png?v=18&quot"
+    },
+    {
+      "id": "18",
+      "source": "Mumbai",
+      "destination": "Delhi",
+      "fare": 4000,
+      "date": "25/04/2024",
+      "duration": "2hr 45min",
+      "time_period": "Morning",
+      "time": "07:15 - 10:00",
+      "stop": "Nonstop",
+      "airline": "Akasa Air",
+      "url": "https://imgak.mmtcdn.com/flights/assets/media/dt/common/icons/QP.png?v=18&quot"
+    }
+  ],
+  "signup": [
+    {
+      "id": "0355",
+      "name": "Abhimanyu",
+      "email": "abhimanyu@example.com",
+      "password": "123456",
+      "confirm_password": "123456"
+    },
+    {
+      "id": "a682",
+      "name": "Random User",
+      "email": "random@exp.com",
+      "password": "1234",
+      "confirm_password": "1234"
+    },
+    {
+      "id": "9772",
+      "name": "abc",
+      "email": "abc@abc.com",
+      "password": "123",
+      "confirm_password": "123"
+    },
+    {
+      "id": "4b19",
+      "name": "xyz",
+      "email": "xyz@xyz.com",
+      "password": "123",
+      "confirm_password": "123"
+    },
+    {
+      "id": "c05d",
+      "name": "fssr",
+      "email": "zfd@ggvs.jdfb",
+      "password": "66e45",
+      "confirm_password": "5645"
+    },
+    {
+      "id": "91a5",
+      "name": "New User",
+      "email": "user@sample.com",
+      "password": "123",
+      "confirm_password": "123"
+    },
+    {
+      "id": "38c4",
+      "name": "cvv",
+      "email": "ghvgh",
+      "password": "1122",
+      "confirm_password": "122"
+    },
+    {
+      "id": "c029",
+      "name": "bdsn",
+      "email": "yfyewds",
+      "password": "nbvhds",
+      "confirm_password": "nhvdsh"
+    }
+  ]
+}
